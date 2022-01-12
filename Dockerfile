@@ -1,4 +1,4 @@
-FROM ubuntu:focal
+FROM ubuntu:impish
 
 # Set noninteractive environment
 ENV DEBIAN_FRONTEND=noninteractive
